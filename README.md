@@ -15,3 +15,4 @@
 * Clone the repo.
 * Set the connections as per the Diagram.
 * Deploy the repo code in Arduino IDE.
+* Adjust Microstep Driver SW pins as per requirements to adjust speed of the Stepper Motor.
